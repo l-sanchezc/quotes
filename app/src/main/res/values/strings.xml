@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="quote_1">Innovation distinguished between a leader and a follower</string>
+    <string name="quote_2">I want to put a ding in the universe!</string>
+    <string name="quote_3">People don\'t know what they want until you show it to them.</string>
+    <string name="quote_4">The only way to be truly satisfied is to do what you believe is great work.</string>
+    <string name="quote_5">You have to learn the rules of the game. And then you have to play better than anyone else.</string>
+    <string name="quote_6">Choose a job you love, and you will never have to work a day in your life.</string>
+    <string name="quote_7">If you can\'t fly then run, if you can\'t run then walk, if you can\'t walk then crawl, but whatever you do you have to keep moving forward.</string>
+    <string name="quote_8">Be yourself; everyone else is already taken.</string>
+    <string name="quote_9">Have no fear of perfection, you\'ll never reach it.</string>
+    <string name="quote_10">I have not failed. I\'ve just found 10,000 ways that won\'t work.</string>
+</resources>
